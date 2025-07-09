@@ -1,0 +1,192 @@
+# Scraped Data - DO NOT UPLOAD TO GIT
+data/
+downloads-booking/
+screenshots-booking/
+downloads-viogogo/
+*.json
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Log files
+logs/
+*.log
+*.out
+*.err
+
+# Screenshots and media
+screenshots/
+images/
+media/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+
+# Downloaded resources
+resources/
+downloads/
+*.pdf
+*.doc
+*.docx
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# Browser data
+cookies/
+session_data/
+browser_cache/
+*.session
+
+# Sensitive data
+*.key
+*.pem
+*.cert
+*.crt
+secrets.txt
+api_keys.txt
+tokens.txt
+
+# Database files
+*.db
+*.sqlite3
+*.sqlite
+
+# Configuration files with sensitive data
+config_local.json
+.env
+.env.local
+.env.production
+.env.test
+
+# Large data files
+*.large
+*.big
+data_backup/
+backup/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Scrapy stuff
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Scraped content that should not be in git
+scraped_content/
+extracted_data/
+crawl_results/
+spider_output/
+
+# Playwright specific
+playwright-report/
+test-results/
